@@ -17,7 +17,7 @@ to enhance it(feel free to raise a PR if you feel you have some cool solutions!)
 | --- | --- | --- |
 | 1 | Minimum swaps to match two arrays | Solution goes here |
 
-# Algorithmatic Solutions
+# Algorithmic Solutions
 
 **Sorting :**
 
