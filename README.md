@@ -8,7 +8,7 @@ to enhance it(feel free to raise a PR if you feel you have some cool solutions!)
 
 |S.No | Category| Solutions |
 | --- | --- | --- |
-| 1 | TicTacToe | [Solution]../src/prabu/personal/solutions/games/tictactoe/TicTacToe.java |
+| 1 | TicTacToe | [Java](./src/prabu/personal/solutions/games/tictactoe/TicTacToe.java) |
 | 2 |  Chess | Solution goes here |
 
 # Competitive Programming Solutions
